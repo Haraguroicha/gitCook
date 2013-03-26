@@ -13,7 +13,7 @@ In this repository, you will focus on a folder and two files, they're:
 ## Reference ##
 1. [寫給大家的 Git 教學 by littlebtc on slideshare][giteveryone]
 
-[gitCook.key]: ./gitCook/archive/master/gitCook.key.zip
-[gitCook.ppt]: ./gitCook/archive/master/gitCook.ppt.zip
-[gitCook.pdf]: ./gitCook/archive/master/gitCook.pdf.zip
+[gitCook.key]: ../../archive/master/gitCook.key.zip
+[gitCook.ppt]: ../../archive/master/gitCook.ppt.zip
+[gitCook.pdf]: ../../archive/master/gitCook.pdf.zip
 [giteveryone]: http://www.slideshare.net/littlebtc/git-5528339
